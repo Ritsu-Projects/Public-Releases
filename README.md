@@ -17,7 +17,7 @@ To use RxE on mobile, choose one of the following options:
 - **Android**: Firefox Nightly ([Google Play Store](https://play.google.com/store/apps/details?id=org.mozilla.fenix), [YouTube Tutorial](https://youtu.be/GXcg8r0c-Lk?t=232), [Blog Post](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-support-in-firefox-for-android-nightly/))
 - **Android**: Kiwi Browser ([Google Play Store](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser)) - Chromium-based browser with Chrome extension support and extra features 
 - **iOS**: Userscripts for Safari ([App Store](https://apps.apple.com/us/app/userscripts/id1463298887))
-- **iOS**: Gear Browsers ([App Store](https://apps.apple.com/us/app/gear-browser/id1458962238))
+- **iOS**: Gear Browser ([App Store](https://apps.apple.com/us/app/gear-browser/id1458962238))
 - **iOS**: Tampermonkey for Safari ([App Store](https://apps.apple.com/us/app/tampermonkey/id1482490089?mt=12), $1.99)
 
 Once that's done, you can [click here to install the latest RxE script](https://raw.githubusercontent.com/Ritsu-Projects/Public-Releases/main/ritsu-emerald.user.js). 
