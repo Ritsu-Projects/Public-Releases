@@ -2,12 +2,44 @@
 
 A small project to make Emerald Chat less bad.
 
+- [Installation](#installation)
+- [Features](#features)
+
+## Installation
+
 You will need to have a userscript manager installed in your browser.
 
 Popular ones are:
 - [ViolentMonkey](https://violentmonkey.github.io/)
 - [TamperMonkey](https://www.tampermonkey.net/)
 
-Once that's done, you can [Install the latest RxE script](https://raw.githubusercontent.com/Ritsu-Projects/Public-Releases/main/ritsu-emerald.user.js).
+To use RxE on mobile, choose one of the following options:
+- **Android**: Firefox Nightly ([Google Play Store](https://play.google.com/store/apps/details?id=org.mozilla.fenix), [YouTube Tutorial](https://youtu.be/GXcg8r0c-Lk?t=232), [Blog Post](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-support-in-firefox-for-android-nightly/))
+- **Android**: Kiwi Browser ([Google Play Store](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser)) - Chromium-based browser with Chrome extension support and extra features 
+- **iOS**: Userscripts for Safari ([App Store](https://apps.apple.com/us/app/userscripts/id1463298887))
+- **iOS**: Gear Browsers ([App Store](https://apps.apple.com/us/app/gear-browser/id1458962238))
+- **iOS**: Tampermonkey for Safari ([App Store](https://apps.apple.com/us/app/tampermonkey/id1482490089?mt=12), $1.99)
 
-Alternatively, use the scripts in the repository to load a specific version.
+Once that's done, you can [click here to install the latest RxE script](https://raw.githubusercontent.com/Ritsu-Projects/Public-Releases/main/ritsu-emerald.user.js). 
+Alternatively, use the scripts in the repository to load a specific version (you will need to click on the <kbd>Raw</kbd> button). If your userscript manager doesn't prompt you to install the script, download it from the link and add it manually (for Tampermonkey, that's Utilities -> File -> Import).
+**Warning: Never install scripts from untrusted sources.**
+
+## Features
+
+- 3 themes
+- Ad-blocking
+- Anti-spam
+- Custom flair colour
+- Customizable chat layout
+- Fixes:
+  - DMs and GC crash
+  - Muted chat stays muted
+- <s>Image sending¹</s> *Image servers no longer available*
+- Karma tracking
+- Option to blur images
+- **Coming up**: Profile pictures¹
+- **Coming up**: Permanent muting
+- **Coming up**: Blocking friend requests
+- **Coming up**: Highlighted name mentions
+
+¹ - between RxE users
