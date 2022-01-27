@@ -2,8 +2,10 @@
 
 A small project to make Emerald Chat less bad.
 
-- [Installation](#installation)
-- [Features](#features)
+Table of Contents:
+1. [Installation](#installation)
+2. [Features](#features)
+3. [Privacy](#privacy)
 
 ## Installation
 
@@ -26,20 +28,32 @@ Alternatively, use the scripts in the repository to load a specific version (you
 
 ## Features
 
-- 3 themes
-- Ad-blocking
-- Anti-spam
-- Custom flair colour
-- Customizable chat layout
-- Fixes:
-  - DMs and GC crash
-  - Muted chat stays muted
-- <s>Image sending¹</s> *Image servers no longer available*
-- Karma tracking
-- Option to blur images
-- **Coming up**: Profile pictures¹
-- **Coming up**: Permanent muting
-- **Coming up**: Blocking friend requests
-- **Coming up**: Highlighted name mentions
+- **Settings — Ritsu Menu**
+  - 3 themes
+  - Ad-blocking
+  - Anti-spam
+  - Custom name colour
+  - Customizable chat layout
+  - Karma tracking
+- **Images**
+  - <s>Image sending¹</s> *Image servers no longer available*
+  - Option to blur images
+- **Fixes**
+  - Broken DMs
+  - Crashed GC
+  - Chat stays muted
+
+
+- **Coming soon** (v11.0):
+  - Profile pictures¹
+  - Permanent muting
+  - Blocking friend requests
+  - Highlighted name mentions
+  - Clickable links
+  - [Material Icons](https://fonts.google.com/icons?selected=Material+Icons) (using `m:icon_name:`)
 
 ¹ - between RxE users
+
+## Privacy
+
+RxE stores your RxE settings in your browser. RxE also sends data on your behalf to EmeraldChat when including your profile picture in your bio (v11.0+).
