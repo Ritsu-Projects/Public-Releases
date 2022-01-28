@@ -35,6 +35,7 @@ Alternatively, use the scripts in the repository to load a specific version (you
   - Custom name colour
   - Customizable chat layout
   - Karma tracking
+  - Extra user info
 - **Images**
   - <s>Image sending¹</s> *Image servers no longer available*
   - Option to blur images
