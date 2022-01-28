@@ -50,7 +50,7 @@ Alternatively, use the scripts in the repository to load a specific version (you
   - Blocking friend requests
   - Highlighted name mentions
   - Clickable links
-  - [Material Icons](https://fonts.google.com/icons?selected=Material+Icons) (using `m:icon_name:`)
+  - [Material Icons](https://fonts.google.com/icons?selected=Material+Icons)¹ (using `m:icon_name:`)
 
 ¹ - between RxE users
 
