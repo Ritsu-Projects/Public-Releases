@@ -43,6 +43,7 @@ Alternatively, use the scripts in the repository to load a specific version (you
   - Broken DMs
   - Crashed GC
   - Chat stays muted
+  - Chat history
 
 
 - **Coming soon** (v11.0):
