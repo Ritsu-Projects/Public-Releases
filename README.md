@@ -20,12 +20,12 @@ To use RxE on mobile, choose one of the following options:
 ([Google Play Store](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser)) - 
 Chromium-based browser with Chrome extension support and extra features. 
 Install your userscript manager from the Chrome Webstore and proceed as normal.
-- __**Android**: Bromite ([Website](https://www.bromite.org/), [F-Droid Repo](https://www.bromite.org/fdroid)) - 
+- _**Android**: Bromite ([Website](https://www.bromite.org/), [F-Droid Repo](https://www.bromite.org/fdroid)) - 
 Privacy-focused Chromium-based browser with userscript support. 
 No extension needed to use RxE, userscripts can be added in the settings. 
 Download and open the `.apk` file to install Bromite. 
 Alternatively, download the F-Droid store for open-source Android apps, 
-and add the Bromite repository to receive automatic updates.__ — Does not seem to work as-is, may require adjustments from our side.
+and add the Bromite repository to receive automatic updates._ — Does not seem to work as-is, may require adjustments from our side.
 - **Android**: Firefox Nightly 
 ([Google Play Store](https://play.google.com/store/apps/details?id=org.mozilla.fenix), 
 [YouTube Tutorial](https://youtu.be/GXcg8r0c-Lk?t=232), 
