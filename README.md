@@ -73,6 +73,7 @@ This will allow you to open DMs, but the DMs panel will no longer be available.
 - Blocking friend requests
 - **<ins>Chat commands</ins>** (`.shrug`, `.rxelink`, etc.)
 - Own picture gallery
+- \*\***Bold**\*\* and \**italics*\*
 - Highlighted name mentions
 - **<ins>Clickable links</ins>**
 - Working DM history
