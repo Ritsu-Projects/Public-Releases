@@ -86,19 +86,19 @@ The following are some screenshots of the upcoming version of RxE
 <img src="https://user-images.githubusercontent.com/86239876/168598300-315f8c22-bf96-4a7c-8ae4-aef1190899f2.png" width = 450> <img src="https://user-images.githubusercontent.com/86239876/168598294-3c0eae3a-1f3a-4a58-b6a0-9902ed9b14aa.png" width = 450>
 
 #### Edit Profile with RxE
-<img src="https://user-images.githubusercontent.com/86239876/168598213-ffd778f0-6cd9-4d9e-865d-6a5bf2efe01f.png" width = 500>
+<img src="https://user-images.githubusercontent.com/86239876/168598213-ffd778f0-6cd9-4d9e-865d-6a5bf2efe01f.png" width = 450>
 
 #### Your profile with RxE
-<img src="https://user-images.githubusercontent.com/86239876/168598125-eeaf25a3-4245-4322-a3db-15569aa05bf1.png" width = 500>
+<img src="https://user-images.githubusercontent.com/86239876/168598125-eeaf25a3-4245-4322-a3db-15569aa05bf1.png" width = 450>
 
 #### Groupchat with RxE
-<img src="https://i.ibb.co/JkyMVfq/rxe-1.png" width = 500>
+<img src="https://i.ibb.co/JkyMVfq/rxe-1.png" width = 450>
 
 #### User options with RxE
-<img src="https://i.ibb.co/8m7GLsc/rxe-7.png" width = 500>
+<img src="https://i.ibb.co/8m7GLsc/rxe-7.png" width = 450>
 
 #### RxE's custom settings
-<img src="https://user-images.githubusercontent.com/86239876/168600558-c724664f-6b6f-4305-9296-e46634eec22c.png" width = 500>
+<img src="https://user-images.githubusercontent.com/86239876/168600558-c724664f-6b6f-4305-9296-e46634eec22c.png" width = 450>
 
 _(Want your screenshot featured here? [Open an issue](https://github.com/Ritsu-Projects/Public-Releases/issues/new) or get in touch with the team members.)_
 
