@@ -2,86 +2,85 @@
 
 A small addon to make EmeraldChat less bad.
 
-Table of Contents:
-1. [Installation](#installation)
-2. [Features](#features)
-3. [Privacy](#privacy)
+Contents:
+
+1. [How do I install RxE?](#installation)
+    1. [Mobile Browsers](#mobile-browsers)
+    1. [Installing RxE](#installing-rxe)
+    1. [What if I can't get RxE?](#what-if-i-cant-get-rxe)
+1. [What does it do?](#features)
+    1. [Upcoming features](#upcoming-features)
+    1. [Screenshots](#screenshots)
+3. [Do you collect my data?](#privacy)
 
 ## Installation
 
-You will need to have a userscript manager installed in your browser.
+**To install RxE, follow these steps**:
+- (*Android / Apple*) Get a suitable browser (see [Mobile Browsers](#mobile-browsers)).
+- Install a **userscript manager** as a browser extension ([ViolentMonkey](https://violentmonkey.github.io/) or [TamperMonkey](https://www.tampermonkey.net/)).
+- Install RxE into your browser by [clicking here](https://raw.githubusercontent.com/Ritsu-Projects/Public-Releases/main/ritsu-emerald.user.js).
+- Refresh EmeraldChat, and change your settings in the new **Ritsu Menu**.
 
-Popular ones are:
-- [ViolentMonkey](https://violentmonkey.github.io/)
-- [TamperMonkey](https://www.tampermonkey.net/) ([YouTube Tutorial](https://www.youtube.com/watch?v=8tyjJD65zws))
+### Mobile Browsers
 
 To use RxE on mobile, choose one of the following options: 
-- **Android**: Kiwi Browser 
+- **Android**: Kiwi Browser
 ([Google Play Store](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser)) - 
-Chromium-based browser with Chrome extension support and extra features. 
-Install your userscript manager from the Chrome Webstore and proceed as normal.
-- _(**Android**: Bromite ([Website](https://www.bromite.org/), [F-Droid Repo](https://www.bromite.org/fdroid)) - 
-Privacy-focused Chromium-based browser with userscript support. 
-No extension needed to use RxE, userscripts can be added in the settings. 
-Download and open the `.apk` file to install Bromite. 
-Alternatively, download the F-Droid store for open-source Android apps, 
-and add the Bromite repository to receive automatic updates.)_ — **Does not seem to work as-is, may require adjustments from our side.**
+Chromium-based browser with Chrome extension support and extra features.
 - **Android**: Firefox Nightly 
 ([Google Play Store](https://play.google.com/store/apps/details?id=org.mozilla.fenix), 
 [YouTube Tutorial](https://youtu.be/GXcg8r0c-Lk?t=232), 
 [Blog Post](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-support-in-firefox-for-android-nightly/)) - 
-Bleeding edge version of Firefox for Android. 
-On PC, create an add-on collection on [addons.mozilla.org](https://addons.mozilla.org), and add your userscript manager to the collection. 
-On Android, unlock Firefox Nightly's developer options by tapping the About Menu's logo, 
-and then input your User ID & collection from the URL as the custom addon collection.
-- **iOS**: Gear Browser ([App Store](https://apps.apple.com/us/app/gear-browser/id1458962238), paid)
+ newest available version of Firefox for Android. 
+    <details><summary><strong>Tutorial</strong> (click to reveal)</summary>
+    On PC, create an add-on collection on <a href="https://addons.mozilla.org">addons.mozilla.org</a>, and add your userscript manager to the collection. 
+    On Android, unlock Firefox Nightly's developer options by tapping the Firefox logo in the About Menu,
+    and then input your User ID & collection from the collection URL as the "custom addon collection".</details>
+- **iOS**: Alook Browser ([App Store](https://apps.apple.com/us/app/alook-browser-2x-speed/id1261944766), one-time fee)
+- **iOS**: Gear Browser ([App Store](https://apps.apple.com/us/app/gear-browser/id1458962238), subscription-based)
 - **iOS**: Tampermonkey for Safari ([App Store](https://apps.apple.com/us/app/tampermonkey/id1482490089?mt=12), $1.99)
-- _(**iOS**: Userscripts for Safari ([App Store](https://apps.apple.com/us/app/userscripts/id1463298887)))_ — **Users report not working**.
+- **iOS**: Tampermonkey for Safari — versions 6 to 11 ([Extension File](https://www.tampermonkey.net/?ext=dhdg&browser=safari))
+
+_(Have a free working setup for iOS? [Open an issue](https://github.com/Ritsu-Projects/Public-Releases/issues/new/choose) and you might see it here. See [Stack Exchange discussion](https://apple.stackexchange.com/questions/31562/is-there-something-similar-to-the-greasemonkey-script-system-for-a-browser-in-io) for more details on iOS support.)_
+
+### Installing RxE
 
 Once that's done, you can [click here to install the latest RxE script](https://raw.githubusercontent.com/Ritsu-Projects/Public-Releases/main/ritsu-emerald.user.js). 
 Alternatively, select a script in the repository to load a specific version (and then click on the <kbd>Raw</kbd> button). If your userscript manager doesn't prompt you to install the script, download it from the link and add it manually (for Tampermonkey, that's Utilities -> File -> Import).
 **Warning: Never install scripts from untrusted sources.**
 
-_(Have a free working setup for iOS? [Open an issue](https://github.com/Ritsu-Projects/Public-Releases/issues/new/choose) and you might see it here.)_
+### What if I can't get RxE?
+
+If you are on an unsupported device, or the installation process is too complicated for you, check if you can still fix crashed DMs with **uBlock Origin**:
+- Add the [uBlock Origin](https://ublockorigin.com/) extension to your browser.
+- Open its settings, and navigate to the **My Filters** tab.
+- Paste the following: `https://emeraldchat.com/private_friends`
+- Click **Apply changes**.
+
+This will allow you to open DMs, but the DMs panel will no longer be available.
 
 ## Features
 
-*(This list is incomplete.)*
+- <ins>Cosmetic</ins>: Themes, customizable layout, **<ins>custom name colour</ins>**, extra user info
+- <ins>Annoyances</ins>: **<ins>Spam blocker</ins>**, ad blocker
+- <ins>Unbreaking</ins>: Fixed layout, **<ins>broken GC or DMs</ins>**, muting chat sounds works
+- <ins>Karma</ins>: Tracking karma live
 
-- **Settings — Ritsu Menu**
-  - 3 themes
-  - Ad-blocking
-  - Anti-spam
-  - Custom name colour
-  - Customizable chat layout
-  - Karma tracking
-  - Extra user info
-- **Images**
-  - <s>Image sending¹</s> *Image servers no longer available*
-  - Blurred images
-  - Favourite images
-  - Image blocking
-- **Fixes**
-  - Broken DMs
-  - Crashed GC
-  - Chat stays muted
-  - Chat history
-
-
-- **Coming soon** (v11.0):
-  - Profile pictures¹
-  - Image sending²
-  - Permanent muting
-  - Blocking friend requests
-  - Highlighted name mentions
-  - Clickable links
-  - [Material Icons](https://fonts.google.com/icons?selected=Material+Icons)¹ (using `m:icon_name:`)
-
-¹ - between RxE users.
-
-² - non-RxE users see link; uploading new images has a cooldown.
+### Upcoming features
+- **<ins>Profile pictures</ins>** (RxE-only)
+- Image sending, blurring & favouriting
+- **<ins>Permanent muting</ins>**
+- Blocking friend requests
+- **<ins>Chat commands</ins>** (`.shrug`, `.rxelink`, etc.)
+- Own picture gallery
+- Highlighted name mentions
+- **<ins>Clickable links</ins>**
+- Working DM history
+- [Material Icons](https://fonts.google.com/icons?selected=Material+Icons)¹ (using `m:icon_name:`) (RxE-only)
 
 ### Screenshots
+
+The following are some screenshots of the upcoming version of RxE:
 
 #### Main menu with RxE
 ![Main menu](https://i.ibb.co/zPnBQSk/rxe-2.png)
@@ -105,4 +104,11 @@ _(Want your screenshot featured here? [Open an issue](https://github.com/Ritsu-P
 
 ## Privacy
 
-RxE stores settings in your browser. RxE also sends data on your behalf to EmeraldChat when including your profile picture in your bio (v11.0+). RxE sends your picture to [Imgur](https://imgurinc.com/privacy) when uploading an image for use in chat or an Imgur profile picture (v11.0+).
+Ritsu x Emerald doesn't collect or publish any data about you — it's just a simple addon.
+
+For privacy-minded people:
+- RxE stores settings in your browser.
+
+The following apply from version **v0.11.0**:
+- When including your profile picture in your bio, RxE sends data on your behalf to EmeraldChat to do so.
+- When uploading an image for use in chat or an Imgur profile picture, RxE sends your picture to Imgur ([Privacy Policy](https://imgurinc.com/privacy)).
