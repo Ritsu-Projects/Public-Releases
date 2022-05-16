@@ -98,7 +98,7 @@ The following are some screenshots of the upcoming version of RxE
 <img src="https://i.ibb.co/8m7GLsc/rxe-7.png" width = 500>
 
 #### RxE's custom settings
-![Custom settings](https://i.ibb.co/Qc1fnd4/rxe-3.png)
+<img src="https://user-images.githubusercontent.com/86239876/168600558-c724664f-6b6f-4305-9296-e46634eec22c.png" width = 500>
 
 _(Want your screenshot featured here? [Open an issue](https://github.com/Ritsu-Projects/Public-Releases/issues/new) or get in touch with the team members.)_
 
