@@ -84,19 +84,19 @@ This will allow you to open DMs, but the DMs panel will no longer be available.
 The following are some screenshots of the upcoming version of RxE:
 
 #### Main menu with RxE
-![Main menu](https://i.ibb.co/zPnBQSk/rxe-2.png)
+<img src="https://i.ibb.co/zPnBQSk/rxe-2.png" width = 500>
 
 #### Edit Profile with RxE
-![Edit Profile](https://i.ibb.co/9cKK4W5/rxe-5.png)
+<img src="https://i.ibb.co/9cKK4W5/rxe-5.png" width = 500>
 
 #### Your profile with RxE
-![Your profile](https://i.ibb.co/6XFQm0v/rxe-6.png)
+<img src="https://i.ibb.co/6XFQm0v/rxe-6.png" width = 500>
 
 #### Groupchat with RxE
-![Group chat](https://i.ibb.co/JkyMVfq/rxe-1.png)
+<img src="https://i.ibb.co/JkyMVfq/rxe-1.png" width = 500>
 
 #### User options with RxE
-![User options](https://i.ibb.co/8m7GLsc/rxe-7.png)
+<img src="https://i.ibb.co/8m7GLsc/rxe-7.png" width = 500>
 
 #### RxE's custom settings
 ![Custom settings](https://i.ibb.co/Qc1fnd4/rxe-3.png)
