@@ -95,7 +95,8 @@ The following are some screenshots of the upcoming version of RxE
 <img src="https://i.ibb.co/JkyMVfq/rxe-1.png" width = 450>
 
 #### User options with RxE
-<img src="https://i.ibb.co/8m7GLsc/rxe-7.png" width = 450>
+
+<img src="https://user-images.githubusercontent.com/86239876/168603777-198c5495-7976-4324-b0e6-03ce3a9d15a8.png" width = 450>
 
 #### RxE's custom settings
 <img src="https://user-images.githubusercontent.com/86239876/168600558-c724664f-6b6f-4305-9296-e46634eec22c.png" width = 450>
