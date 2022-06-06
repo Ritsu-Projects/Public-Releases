@@ -61,27 +61,16 @@ This will allow you to open DMs, but the DMs panel will no longer be available.
 
 ## Features
 
-- <ins>Cosmetic</ins>: Themes, customizable layout, **<ins>custom name colour</ins>**, extra user info
-- <ins>Annoyances</ins>: **<ins>Spam blocker</ins>**, ad blocker
-- <ins>Unbreaking</ins>: Fixed layout, **<ins>broken GC or DMs</ins>**, muting chat sounds works
-- <ins>Karma</ins>: Tracking karma live
-
-### Upcoming features
-- **<ins>Profile pictures</ins>** (RxE-only)
-- Image sending, blurring & favouriting
-- **<ins>Permanent muting</ins>**
-- Blocking friend requests
-- **<ins>Chat commands</ins>** (`.shrug`, `.rxelink`, etc.)
-- Own picture gallery
-- \*\***Bold**\*\* and \**italics*\*
-- Highlighted name mentions
-- **<ins>Clickable links</ins>**
-- Working DM history
-- [Material Icons](https://fonts.google.com/icons?selected=Material+Icons)¹ (using `m:icon_name:`) (RxE-only)
+- <ins>Cosmetic</ins>: Themes, **<ins>custom name colour</ins>**, customizable layout, 
+- <ins>Images</ins>: **<ins>Profile pictures</ins>**, image sending, own avatar gallery
+- <ins>Chat</ins>: \*\***Bold**\*\* & \**italics*\*, **<ins>clickable links</ins>**, highlighted name mentions, chat commands (`.shrug`, `.rxelink`, etc.), support for [material icons](https://fonts.google.com/icons?selected=Material+Icons) (using `m:icon_name:`)
+- <ins>Annoyances</ins>: **<ins>Permanent muting</ins>**, **<ins>spam blocker</ins>**, ad blocker, **<ins>blocking friend requests</ins>**, image blurring
+- <ins>Unbreaking</ins>: Fixed layout, **<ins>fixed DMs</ins>**, fixed group chat, working DM history, muting chat sounds works
+- <ins>Utilities</ins>: Image favoriting, **<ins>extra user info</ins>**, tracking karma live
 
 ### Screenshots
 
-The following are some screenshots of the upcoming version of RxE
+The following are some screenshots of RxE:
 #### Main menu with RxE (Different themes)
 <img src="https://user-images.githubusercontent.com/86239876/168598300-315f8c22-bf96-4a7c-8ae4-aef1190899f2.png" width = 450> <img src="https://user-images.githubusercontent.com/86239876/168598294-3c0eae3a-1f3a-4a58-b6a0-9902ed9b14aa.png" width = 450>
 
@@ -109,7 +98,5 @@ Ritsu x Emerald doesn't collect or publish any data about you — it's just a si
 
 For privacy-minded people:
 - RxE stores settings in your browser.
-
-The following apply from version **v0.11.0**:
 - When including your profile picture in your bio, RxE sends data on your behalf to EmeraldChat to do so.
 - When uploading an image for use in chat or an Imgur profile picture, RxE sends your picture to Imgur ([Privacy Policy](https://imgurinc.com/privacy)).
