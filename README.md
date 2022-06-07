@@ -77,8 +77,8 @@ The following are some screenshots of RxE:
 #### Edit Profile with RxE
 <img src="https://user-images.githubusercontent.com/86239876/168598213-ffd778f0-6cd9-4d9e-865d-6a5bf2efe01f.png" width = 450>
 
-#### Your profile with RxE
-<img src="https://user-images.githubusercontent.com/86239876/168598125-eeaf25a3-4245-4322-a3db-15569aa05bf1.png" width = 450>
+#### Your profile with RxE!
+<img src="https://user-images.githubusercontent.com/86239876/172352658-c4f61311-f5b1-48e2-8ae9-cb099a7ad2a5.png" width = 450>
 
 #### Groupchat with RxE
 <img src="https://i.ibb.co/JkyMVfq/rxe-1.png" width = 450>
