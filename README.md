@@ -80,15 +80,15 @@ The following are some screenshots of RxE:
 
 #### Edit Profile with RxE
 
-<img src="https://user-images.githubusercontent.com/86239876/168598213-ffd778f0-6cd9-4d9e-865d-6a5bf2efe01f.png" width = 450>
+<img src="https://user-images.githubusercontent.com/86239876/172495562-e3994328-b537-47e7-81d4-05a576a03e38.png" width = 450>
 
 #### Your profile with RxE!
 
 <img src="https://user-images.githubusercontent.com/86239876/172352658-c4f61311-f5b1-48e2-8ae9-cb099a7ad2a5.png" width = 450>
 
-#### Groupchat with RxE
+#### Groupchat with RxE!
 
-<img src="https://i.ibb.co/JkyMVfq/rxe-1.png" width = 450>
+<img src="[https://i.ibb.co/JkyMVfq/rxe-1.png](https://user-images.githubusercontent.com/86239876/172495712-da76450c-77b3-4163-8334-d3898a9df50b.png)" width = 450>
 
 #### User options with RxE
 
