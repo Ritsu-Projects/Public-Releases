@@ -9,7 +9,6 @@ Contents:
     1. [Installing RxE](#installing-rxe)
     1. [What if I can't get RxE?](#what-if-i-cant-get-rxe)
 1. [What does it do?](#features)
-    1. [Upcoming features](#upcoming-features)
     1. [Screenshots](#screenshots)
 3. [Do you collect my data?](#privacy)
 
