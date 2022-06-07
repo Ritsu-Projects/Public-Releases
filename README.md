@@ -88,7 +88,7 @@ The following are some screenshots of RxE:
 
 #### Groupchat with RxE!
 
-<img src="(https://user-images.githubusercontent.com/86239876/172495712-da76450c-77b3-4163-8334-d3898a9df50b.png)" width = 450>
+<img src="https://user-images.githubusercontent.com/86239876/172495712-da76450c-77b3-4163-8334-d3898a9df50b.png" width = 450>
 
 #### User options with RxE
 
