@@ -16,7 +16,7 @@ Contents:
 
 **To install RxE, follow these steps**:
 
-- (_Android / Apple_) Get a suitable browser (see [Mobile Browsers](#mobile-browsers)).
+- (_Android / Apple only_) Get a suitable browser (see [Mobile Browsers](#mobile-browsers)).
 - Install a **userscript manager** as a browser extension ([ViolentMonkey](https://violentmonkey.github.io/) or [TamperMonkey](https://www.tampermonkey.net/)).
 - Install RxE into your browser by [clicking here](https://github.com/Ritsu-Projects/Public-Releases/raw/main/ritsu-emerald.user.js).
 - Refresh EmeraldChat, and change your settings in the new **Ritsu Menu**.
