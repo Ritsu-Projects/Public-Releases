@@ -37,6 +37,8 @@ To use RxE on mobile, choose one of the following options:
   On PC, create an add-on collection on <a href="https://addons.mozilla.org">addons.mozilla.org</a>, and add your userscript manager to the collection.
   On Android, unlock Firefox Nightly's developer options by tapping the Firefox logo in the About Menu,
   and then input your User ID & collection from the collection URL as the "custom addon collection".</details>
+- **iOS**: Userscripts App ([App Store](https://apps.apple.com/us/app/userscripts/id1463298887)): Designate a userscripts folder and
+  download the RxE script from the installation link into the folder.
 - **iOS**: Alook Browser ([App Store](https://apps.apple.com/us/app/alook-browser-2x-speed/id1261944766), one-time fee)
 - **iOS**: Gear Browser ([App Store](https://apps.apple.com/us/app/gear-browser/id1458962238), subscription-based)
 - **iOS**: Tampermonkey for Safari ([App Store](https://apps.apple.com/us/app/tampermonkey/id1482490089?mt=12), $1.99)
