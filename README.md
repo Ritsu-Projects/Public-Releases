@@ -1,16 +1,63 @@
 # Ritsu x Emerald
 
-A small addon to make EmeraldChat less bad.
+A small addon that enhances your experience in EmeraldChat.
+
+
 
 Contents:
-
+1. [Features](#features)
+   1. [Screenshots](#screenshots)
 1. [How do I install RxE?](#installation)
-   1. [Mobile Browsers](#mobile-browsers)
+   1. [Mobile Browsers](#recommended-mobile-browsers)
    1. [Installing RxE](#installing-rxe)
    1. [What if I can't get RxE?](#what-if-i-cant-get-rxe)
-1. [What does it do?](#features)
-   1. [Screenshots](#screenshots)
 1. [Do you collect my data?](#privacy)
+
+---
+
+## Features
+Pure vanilla emeraldchat experience sucks. You can't send links, you can't auto mute spammers and you name it
+
+This addon aims to fix this problems and aims to give user the better experience while browsing the app.
+
+- <ins>Cosmetic</ins>: Themes, **<ins>custom name colour</ins>**, customizable layout,
+- <ins>Images</ins>: **<ins>Profile pictures</ins>**, image sending, own avatar gallery
+- <ins>Chat</ins>: \*\***Bold**\*\* & \*_italics_\*, **<ins>clickable links</ins>**, highlighted name mentions, chat commands (`.shrug`, `.rxelink`, etc.), support for [material icons](https://fonts.google.com/icons?selected=Material+Icons) (using `m:icon_name:`)
+- <ins>Annoyances</ins>: **<ins>Permanent muting</ins>**, **<ins>spam blocker</ins>**, ad blocker, **<ins>blocking friend requests</ins>**, image blurring
+- <ins>Unbreaking</ins>: Fixed layout, **<ins>fixed DMs</ins>**, fixed group chat, working DM history, muting chat sounds works
+- <ins>Utilities</ins>: Image favoriting, **<ins>extra user info</ins>**, tracking karma live
+
+### Screenshots
+
+The following are some screenshots of RxE:
+
+#### Main menu with RxE (Different themes)
+
+<img src="https://user-images.githubusercontent.com/86239876/168598300-315f8c22-bf96-4a7c-8ae4-aef1190899f2.png" width = 450> <img src="https://user-images.githubusercontent.com/86239876/168598294-3c0eae3a-1f3a-4a58-b6a0-9902ed9b14aa.png" width = 450>
+
+#### Edit Profile with RxE 
+
+<img src="https://user-images.githubusercontent.com/86239876/172495562-e3994328-b537-47e7-81d4-05a576a03e38.png" width = 450>
+
+#### Your profile with RxE!
+
+<img src="https://user-images.githubusercontent.com/86239876/172352658-c4f61311-f5b1-48e2-8ae9-cb099a7ad2a5.png" width = 450>
+
+#### Groupchat with RxE!
+
+<img src="https://user-images.githubusercontent.com/86239876/172495712-da76450c-77b3-4163-8334-d3898a9df50b.png" width = 450>
+
+#### User options with RxE
+
+<img src="https://user-images.githubusercontent.com/86239876/168603777-198c5495-7976-4324-b0e6-03ce3a9d15a8.png" width = 450>
+
+#### RxE's custom settings
+
+<img src="https://user-images.githubusercontent.com/86239876/168600558-c724664f-6b6f-4305-9296-e46634eec22c.png" width = 450>
+
+_(Want your screenshot featured here? [Open an issue](https://github.com/Ritsu-Projects/Public-Releases/issues/new) or get in touch with the team members.)_
+
+
 
 ## Installation
 
@@ -21,7 +68,7 @@ Contents:
 - Install RxE into your browser by [clicking here](https://github.com/Ritsu-Projects/Public-Releases/raw/main/ritsu-emerald.user.js).
 - Refresh EmeraldChat, and change your settings in the new **Ritsu Menu**.
 
-### Mobile Browsers
+### Recommended Mobile Browsers
 
 To use RxE on mobile, choose one of the following options:
 
@@ -52,7 +99,7 @@ Once that's done, you can [click here to install the latest RxE script](https://
 Alternatively, select a script in the repository to load a specific version (and then click on the <kbd>Raw</kbd> button). If your userscript manager doesn't prompt you to install the script, download it from the link and add it manually (for Tampermonkey, that's Utilities -> File -> Import).
 **Warning: Never install scripts from untrusted sources.**
 
-### What if I can't get RxE?
+### I can't install RxE! 
 
 If you are on an unsupported device, or the installation process is too complicated for you, check if you can still fix crashed DMs with **uBlock Origin**:
 
@@ -63,44 +110,6 @@ If you are on an unsupported device, or the installation process is too complica
 
 This will allow you to open DMs, but the DMs panel will no longer be available.
 
-## Features
-
-- <ins>Cosmetic</ins>: Themes, **<ins>custom name colour</ins>**, customizable layout,
-- <ins>Images</ins>: **<ins>Profile pictures</ins>**, image sending, own avatar gallery
-- <ins>Chat</ins>: \*\***Bold**\*\* & \*_italics_\*, **<ins>clickable links</ins>**, highlighted name mentions, chat commands (`.shrug`, `.rxelink`, etc.), support for [material icons](https://fonts.google.com/icons?selected=Material+Icons) (using `m:icon_name:`)
-- <ins>Annoyances</ins>: **<ins>Permanent muting</ins>**, **<ins>spam blocker</ins>**, ad blocker, **<ins>blocking friend requests</ins>**, image blurring
-- <ins>Unbreaking</ins>: Fixed layout, **<ins>fixed DMs</ins>**, fixed group chat, working DM history, muting chat sounds works
-- <ins>Utilities</ins>: Image favoriting, **<ins>extra user info</ins>**, tracking karma live
-
-### Screenshots
-
-The following are some screenshots of RxE:
-
-#### Main menu with RxE (Different themes)
-
-<img src="https://user-images.githubusercontent.com/86239876/168598300-315f8c22-bf96-4a7c-8ae4-aef1190899f2.png" width = 450> <img src="https://user-images.githubusercontent.com/86239876/168598294-3c0eae3a-1f3a-4a58-b6a0-9902ed9b14aa.png" width = 450>
-
-#### Edit Profile with RxE
-
-<img src="https://user-images.githubusercontent.com/86239876/172495562-e3994328-b537-47e7-81d4-05a576a03e38.png" width = 450>
-
-#### Your profile with RxE!
-
-<img src="https://user-images.githubusercontent.com/86239876/172352658-c4f61311-f5b1-48e2-8ae9-cb099a7ad2a5.png" width = 450>
-
-#### Groupchat with RxE!
-
-<img src="https://user-images.githubusercontent.com/86239876/172495712-da76450c-77b3-4163-8334-d3898a9df50b.png" width = 450>
-
-#### User options with RxE
-
-<img src="https://user-images.githubusercontent.com/86239876/168603777-198c5495-7976-4324-b0e6-03ce3a9d15a8.png" width = 450>
-
-#### RxE's custom settings
-
-<img src="https://user-images.githubusercontent.com/86239876/168600558-c724664f-6b6f-4305-9296-e46634eec22c.png" width = 450>
-
-_(Want your screenshot featured here? [Open an issue](https://github.com/Ritsu-Projects/Public-Releases/issues/new) or get in touch with the team members.)_
 
 ## Privacy
 
