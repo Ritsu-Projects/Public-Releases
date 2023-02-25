@@ -13,7 +13,10 @@ Contents:
    1. [What if I can't get RxE?](#what-if-i-cant-get-rxe)
 1. [Do you collect my data?](#privacy)
 
+
 ---
+## Credits:
+1. [Teriyaki](https://github.com/Teriyaki812) for beta testing and bug hunting
 
 ## Features
 Pure vanilla emeraldchat experience sucks. You can't send links, you can't auto mute spammers and you name it
