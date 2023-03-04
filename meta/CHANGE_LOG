@@ -1,3 +1,2 @@
--- Bug fixes
--- Dynamically update picture moderation count
--- Update popup will now show changes
+-- Adjust custom tags for mod/master
+-- Rendering optimizations
