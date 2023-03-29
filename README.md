@@ -36,7 +36,7 @@ The following are some screenshots of RxE:
 
 #### Main menu with RxE (Different themes)
 
-<img src="https://user-images.githubusercontent.com/86239876/168598300-315f8c22-bf96-4a7c-8ae4-aef1190899f2.png" width = 450> <img src="https://user-images.githubusercontent.com/86239876/168598294-3c0eae3a-1f3a-4a58-b6a0-9902ed9b14aa.png" width = 450>
+<img src="https://user-images.githubusercontent.com/96557030/228451719-75d26bc2-90c5-4ede-9ebe-d853eb6f9769.PNG" width = 450> <img src="https://user-images.githubusercontent.com/96557030/228451839-d25348fd-381b-4b20-a557-ab836cdc03f6.PNG" width = 450> <img src="https://user-images.githubusercontent.com/96557030/228451999-d0e4f690-0a9e-4e18-8def-d785171365f8.PNG" width = 450>
 
 #### Edit Profile with RxE 
 
@@ -46,7 +46,7 @@ The following are some screenshots of RxE:
 
 <img src="https://user-images.githubusercontent.com/86239876/172352658-c4f61311-f5b1-48e2-8ae9-cb099a7ad2a5.png" width = 450>
 
-#### Groupchat with RxE!
+#### Groupchat with RxE! 
 
 <img src="https://user-images.githubusercontent.com/86239876/172495712-da76450c-77b3-4163-8334-d3898a9df50b.png" width = 450>
 
