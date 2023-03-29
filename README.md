@@ -52,7 +52,8 @@ The following are some screenshots of RxE:
 
 #### User options with RxE
 
-<img src="https://user-images.githubusercontent.com/86239876/168603777-198c5495-7976-4324-b0e6-03ce3a9d15a8.png" width = 450>
+<img src="https://user-images.githubusercontent.com/96557030/228461982-0d7c03df-06e3-4fc3-8d20-8b67f235775b.PNG" width = 450>
+<img src="https://user-images.githubusercontent.com/96557030/228462601-10f90f9a-fc59-4927-86c3-6901b8e9ebc6.PNG" width = 450>
 
 #### RxE's custom settings
 
@@ -121,5 +122,4 @@ Ritsu x Emerald doesn't collect or publish any data about you — it's just a si
 For privacy-minded people:
 
 - RxE stores settings in your browser.
-- When including your profile picture in your bio, RxE sends data on your behalf to EmeraldChat to do so.
-- When uploading an image for use in chat or an Imgur profile picture, RxE sends your picture to Imgur ([Privacy Policy](https://imgurinc.com/privacy)).
+- When uploading an image for use in chat, RxE sends your picture to Imgur ([Privacy Policy](https://imgurinc.com/privacy)).
