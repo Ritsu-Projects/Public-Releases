@@ -45,10 +45,12 @@ The following are some screenshots of RxE:
 #### Your profile with RxE!
 
 <img src="https://user-images.githubusercontent.com/86239876/172352658-c4f61311-f5b1-48e2-8ae9-cb099a7ad2a5.png" width = 450>
+<img src="https://user-images.githubusercontent.com/96557030/228779115-9d074b8d-a54a-405a-865c-04248e99b45f.PNG" width = 450>
 
 #### Groupchat with RxE! 
 
 <img src="https://user-images.githubusercontent.com/86239876/172495712-da76450c-77b3-4163-8334-d3898a9df50b.png" width = 450>
+<img src="https://user-images.githubusercontent.com/96557030/228778794-d483016a-5626-42e1-b491-f6f821b565bd.PNG" width = 450>
 
 #### User options with RxE
 
