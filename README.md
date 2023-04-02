@@ -10,7 +10,7 @@ Contents:
 1. [How do I install RxE?](#installation)
    1. [Mobile Browsers](#recommended-mobile-browsers)
    1. [Installing RxE](#installing-rxe)
-   1. [What if I can't get RxE?](#what-if-i-cant-get-rxe)
+   1. [What if I can't get RxE?](#i-cannot-install-rxe)
 1. [Do you collect my data?](#privacy)
 
 
@@ -36,7 +36,7 @@ The following are some screenshots of RxE:
 
 #### Main menu with RxE (Different themes)
 
-<img src="https://user-images.githubusercontent.com/96557030/228451719-75d26bc2-90c5-4ede-9ebe-d853eb6f9769.PNG" width = 450> <img src="https://user-images.githubusercontent.com/96557030/228451839-d25348fd-381b-4b20-a557-ab836cdc03f6.PNG" width = 450> <img src="https://user-images.githubusercontent.com/96557030/228451999-d0e4f690-0a9e-4e18-8def-d785171365f8.PNG" width = 450>
+<img src="https://user-images.githubusercontent.com/96557030/229342328-291b96ae-233f-410d-a728-bff56541c13f.PNG" width = 450> <img src="https://user-images.githubusercontent.com/96557030/229342344-5e120aa4-0a69-40a1-b373-47ddfa384c41.PNG" width = 450> <img src="https://user-images.githubusercontent.com/96557030/229342362-fe4fe0e5-5e5f-46f5-be0e-e3e90ca8644a.PNG" width = 450>
 
 #### Edit Profile with RxE 
 
@@ -54,8 +54,8 @@ The following are some screenshots of RxE:
 
 #### User options with RxE
 
-<img src="https://user-images.githubusercontent.com/96557030/228461982-0d7c03df-06e3-4fc3-8d20-8b67f235775b.PNG" width = 450>
-<img src="https://user-images.githubusercontent.com/96557030/228462601-10f90f9a-fc59-4927-86c3-6901b8e9ebc6.PNG" width = 450>
+<img src="https://user-images.githubusercontent.com/96557030/229342395-dc39680e-f66c-4949-91bd-ae91d5858b90.PNG" width = 450>
+<img src="https://user-images.githubusercontent.com/96557030/229342410-de74194d-73ac-49bb-b0ea-e26ba67aa5c6.PNG" width = 450>
 
 #### RxE's custom settings
 
@@ -105,7 +105,7 @@ Once that's done, you can [click here to install the latest RxE script](https://
 Alternatively, select a script in the repository to load a specific version (and then click on the <kbd>Raw</kbd> button). If your userscript manager doesn't prompt you to install the script, download it from the link and add it manually (for Tampermonkey, that's Utilities -> File -> Import).
 **Warning: Never install scripts from untrusted sources.**
 
-### I can't install RxE! 
+### I cannot install RxE
 
 If you are on an unsupported device, or the installation process is too complicated for you, check if you can still fix crashed DMs with **uBlock Origin**:
 
