@@ -16,7 +16,7 @@ Contents:
 
 ---
 ## Credits:
-1. [Teriyaki](https://github.com/Teriyaki812) for beta testing and bug hunting
+1. [Teriyaki](https://github.com/Teriyaki812) for beta testing, bug hunting and the addition of the Teriblast theme
 
 ## Features
 Pure vanilla emeraldchat experience sucks. You can't send links, you can't auto mute spammers and you name it
